@@ -17,7 +17,7 @@ credible.
 
 
 **This Project entails the exploration of the impact of adversarial attacks on tabular data
-classifiers, and the study of the possible countermeasures to such attacks, specifically within the context of loan risk prediction using the German Credit Risk dataset.**
+classifiers, and the study of the possible countermeasures against such attacks, specifically within the context of loan risk prediction using the German Credit Risk dataset.**
 
 
 The Doc directory contains an extensinve and in-depth report of the whole Project.
