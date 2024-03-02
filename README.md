@@ -16,8 +16,8 @@ real data x, i.e., |x − x_adv |2 < ϵ, where ϵ is that maximum distance to wh
 credible.
 
 
-This Project entails the exploration of the impact of adversarial attacks on tabular data
-classifiers, specifically within the context of loan risk prediction using the German Credit Risk dataset.
+**This Project entails the exploration of the impact of adversarial attacks on tabular data
+classifiers, and the study of the possible countermeasures to such attacks, specifically within the context of loan risk prediction using the German Credit Risk dataset.**
 
 
 The Doc directory contains an extensinve and in-depth report of the whole Project.
